@@ -1,6 +1,6 @@
 # MMED-1054-Midterm-Build
 A repository by Alex Harris and Nguyen GiaLinh showing the knowledge we have gained this semester thus far.
-This repository will showcase the argument of Cats vs Dogs. Each team member will make it known their position on the topic and provide their argument.
+This repository will showcase the argument of Cats vs Dogs. Each team member will their position known on the topic and provide their argument.
 
 # MIT License
 
